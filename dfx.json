@@ -5,7 +5,7 @@
           "entrypoint": "pages/index.js"
         },
         "source": [
-          ".next"
+          "out"
         ],
         "type": "assets"
       }
