@@ -1,0 +1,21 @@
+{
+    "canisters": {
+      "website": {
+        "frontend": {
+          "entrypoint": "pages/index.js"
+        },
+        "source": [
+          ".next"
+        ],
+        "type": "assets"
+      }
+    },
+    "defaults": {
+      "build": {
+        "args": "",
+        "packtool": ""
+      }
+    },
+    "dfx": "0.19.0",
+    "version": 1
+  }
